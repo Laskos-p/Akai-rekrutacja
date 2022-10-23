@@ -1,0 +1,44 @@
+[
+ {
+  "base_currency": "PLN",
+  "target_currency": "EUR",
+  "date_fetched": "2022-10-22",
+  "ratio": 0.209422
+ },
+ {
+  "base_currency": "PLN",
+  "target_currency": "USD",
+  "date_fetched": "2022-10-22",
+  "ratio": 0.206483
+ },
+ {
+  "base_currency": "USD",
+  "target_currency": "EUR",
+  "date_fetched": "2022-10-22",
+  "ratio": 1.014233
+ },
+ {
+  "base_currency": "USD",
+  "target_currency": "PLN",
+  "date_fetched": "2022-10-22",
+  "ratio": 4.84301
+ },
+ {
+  "base_currency": "PLN",
+  "target_currency": "CZK",
+  "date_fetched": "2022-10-22",
+  "ratio": 5.125614
+ },
+ {
+  "base_currency": "CZK",
+  "target_currency": "USD",
+  "date_fetched": "2022-10-22",
+  "ratio": 0.040285
+ },
+ {
+  "base_currency": "USD",
+  "target_currency": "CZK",
+  "date_fetched": "2022-10-22",
+  "ratio": 24.823401
+ }
+]
